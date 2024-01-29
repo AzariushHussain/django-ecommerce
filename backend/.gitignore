@@ -1,0 +1,12 @@
+# Python-specific files
+*.pyc
+__pycache__/
+
+# Virtual environment
+env/
+
+# Django-specific files and directories
+db.sqlite3
+
+# Django migrations inside the 'api' app
+api/migrations/
